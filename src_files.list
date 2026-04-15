@@ -1,0 +1,16 @@
+SPI_slave.sv
+slave_if.sv
+driver.sv
+assertions.sv
+config.sv
+sequence_item.sv
+sequencer.sv
+environment.sv
+main_seq.sv
+reset_seq.sv
+monitor.sv
+coverage_collector.sv
+scoreboard.sv
+agent.sv
+test.sv
+top.sv
